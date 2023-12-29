@@ -1,7 +1,19 @@
 {
-    "require": {
-        "vendor/package": "1.3.2",
-        "vendor/package2": "1.*",
-        "vendor/package3": "^2.0.3"
-    }
+    "name": "darisdzakwanhoesien/pear_edtech",
+    "description": "End-to-end University Prep App",
+    "type": "project",
+    "license": "MIT, GPL-2.0, or proprietary.",
+    "autoload": {
+        "psr-4": {
+            "Darisdzakwanhoesien\\PearEdtech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "darisdzakwanhoesien2",
+            "email": "48860799+darisdzakwanhoesien2@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
