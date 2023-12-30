@@ -1,6 +1,6 @@
 {
     "name": "darisdzakwanhoesien/pear_edtech",
-    "description": "End-to-end University Prep App",
+    "description": "End-to-end University Prep Application",
     "type": "project",
     "license": "MIT, GPL-2.0, or proprietary.",
     "autoload": {
